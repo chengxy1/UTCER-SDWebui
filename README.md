@@ -12,7 +12,7 @@ SOTIF - 图像创生扩散系统
     <img src="image/logo.jpg" alt="Logo" width="384" height="192">
   </a>
 
-  <h3 align="center">"图像创生扩散系统"</h3>
+  <h3 align="center">图像创生扩散系统</h3>
   <p align="center">
     <br />
     <a href="https://github.com/chengxy1/UTCER-SDWebui/使用手册.docx">查看指南</a>
