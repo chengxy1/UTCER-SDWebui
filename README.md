@@ -56,7 +56,7 @@ SOTIF - 图像创生扩散系统
 ### 使用指南
 
 - 请下载[使用手册.docx](https://github.com/chengxy1/UTCER-SDWebui/blob/main/%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.docx)查看使用图像创生项目的使用指南。
-- 请下载[功能详解.docx](https://github.com/chengxy1/UTCER-SDWebui/blob/main/%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.docx)查看使用图像创生项目的采样器等工具介绍。
+- 请下载[功能详解.docx](https://github.com/chengxy1/UTCER-SDWebui/blob/main/%E5%8A%9F%E8%83%BD%E8%AF%A6%E8%A7%A3.docx)查看使用图像创生项目的采样器等工具介绍。
 
 
 ### 如何参与开源项目
