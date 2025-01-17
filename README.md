@@ -1,6 +1,5 @@
 # UTCER-SDWebui
-SOTIF - 视觉场景泛化生成系统<br />
-    依托精心训练的先进扩散模型，拥有卓越的图像生成能力。支持sotif测试用例图像生成，复杂未知场景测试图像生成，场景图像泛化等功能。用户仅需输入简明的文字要求或者提供预设图像作为基础，即可生成高质量图像，并支持对图像的像素级修改。
+SOTIF - 视觉场景泛化生成系统
 <!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
