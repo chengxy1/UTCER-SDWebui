@@ -1,5 +1,5 @@
 # UTCER-SDWebui
-SOTIF - 图像创生扩散系统
+SOTIF - 视觉场景泛化生成系统
 
 <!-- PROJECT SHIELDS -->
 
@@ -12,7 +12,7 @@ SOTIF - 图像创生扩散系统
     <img src="image/logo.jpg" alt="Logo" width="384" height="192">
   </a>
 
-  <h3 align="center">图像创生扩散系统</h3>
+  <h3 align="center">视觉场景泛化生成系统</h3>
   <p align="center">
     <br />
     <a href="https://github.com/chengxy1/UTCER-SDWebui/blob/main/%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.docx">查看指南</a>
